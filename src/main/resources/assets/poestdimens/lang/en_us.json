@@ -1,0 +1,30 @@
+{
+  "command.poestdimens.remna.success": "World renamed successfully!",
+  "command.poestdimens.prequest.self": "You cannot send a teleportation request to yourself!",
+  "command.poestdimens.prequest.no_pocket": "This player doesn't have a pocket dimension yet!",
+  "command.poestdimens.prequest.sent": "Request sent to player %s",
+  "command.poestdimens.paccept.no_request": "No active request from this player!",
+  "command.poestdimens.paccept.no_xp": "Insufficient experience to enter another world! Requires 2 XP points.",
+  "command.poestdimens.paccept.cancelled": "Teleportation canceled: guest (%s) doesn't have enough XP.",
+  "command.poestdimens.paccept.success_guest": "You have entered the world of player %s",
+  "command.poestdimens.paccept.success_host": "Player %s has entered your world.",
+  "command.poestdimens.pdeny.no_request": "No active request from this player!",
+  "command.poestdimens.pdeny.denied_guest": "Player %s denied your request to enter.",
+  "command.poestdimens.pdeny.denied_host": "You denied the request from player %s",
+  "command.poestdimens.pkick.self": "You cannot kick yourself!",
+  "command.poestdimens.pkick.not_in_world": "This player is not in your pocket dimension!",
+  "command.poestdimens.pkick.success_guest": "The dimension owner has kicked you out!",
+  "command.poestdimens.pkick.success_host": "Player %s was successfully removed from your world.",
+  
+  "chat.poestdimens.prunus.insufficient_resources": "Insufficient resources! Required: 1 Ender Pearl, 4 Emeralds, 1 Lever.",
+  "chat.poestdimens.prunus.current_resources": "You have: Pearls: %d/1, Emeralds: %d/4, Levers: %d/1",
+  "chat.poestdimens.prunus.insufficient_power": "Insufficient power! Requires 2 XP and food level of 4.",
+  "chat.poestdimens.prunus.insufficient_xp": "Insufficient experience! Requires 2 XP points.",
+  "chat.poestdimens.prunus.too_hungry": "You are too hungry to teleport!",
+  "chat.poestdimens.prunus.initiated": "Ritual initiated. Teleporting...",
+  "chat.poestdimens.malus.returned": "You have returned back.",
+  "chat.poestdimens.malus.not_in_pocket": "You are not in the pocket dimension!",
+  
+  "gui.poestdimens.request.title": "%s",
+  "gui.poestdimens.request.subtitle": "World Owner: %s"
+}

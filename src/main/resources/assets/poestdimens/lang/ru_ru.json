@@ -1,0 +1,30 @@
+{
+  "command.poestdimens.remna.success": "Мир успешно переименован!",
+  "command.poestdimens.prequest.self": "Вы не можете отправить запрос на телепортацию самому себе!",
+  "command.poestdimens.prequest.no_pocket": "У этого игрока ещё нет карманного измерения!",
+  "command.poestdimens.prequest.sent": "Запрос отправлен игроку %s",
+  "command.poestdimens.paccept.no_request": "Нет активного запроса от этого игрока!",
+  "command.poestdimens.paccept.no_xp": "Недостаточно опыта для входа в другой мир! Требуется 2 очка опыта.",
+  "command.poestdimens.paccept.cancelled": "Телепортация отменена: у гостя (%s) недостаточно опыта.",
+  "command.poestdimens.paccept.success_guest": "Вы вошли в мир игрока %s",
+  "command.poestdimens.paccept.success_host": "Игрок %s вошёл в ваш мир.",
+  "command.poestdimens.pdeny.no_request": "Нет активного запроса от этого игрока!",
+  "command.poestdimens.pdeny.denied_guest": "Игрок %s отклонил ваш запрос на вход.",
+  "command.poestdimens.pdeny.denied_host": "Вы отклонили запрос от игрока %s",
+  "command.poestdimens.pkick.self": "Вы не можете кикнуть самого себя!",
+  "command.poestdimens.pkick.not_in_world": "Этот игрок не находится в вашем карманном измерении!",
+  "command.poestdimens.pkick.success_guest": "Владелец измерения выгнал вас!",
+  "command.poestdimens.pkick.success_host": "Игрок %s успешно удалён из вашего мира.",
+  
+  "chat.poestdimens.prunus.insufficient_resources": "Недостаточно ресурсов! Требуется: 1 Жемчужина Края, 4 Изумруда, 1 Рычаг.",
+  "chat.poestdimens.prunus.current_resources": "У вас есть: Жемчужины: %d/1, Изумруды: %d/4, Рычаги: %d/1",
+  "chat.poestdimens.prunus.insufficient_power": "Недостаточно силы! Требуется 2 очка опыта и уровень голода 4.",
+  "chat.poestdimens.prunus.insufficient_xp": "Недостаточно опыта! Требуется 2 очка опыта.",
+  "chat.poestdimens.prunus.too_hungry": "Вы слишком голодны для телепортации!",
+  "chat.poestdimens.prunus.initiated": "Ритуал начат. Телепортация...",
+  "chat.poestdimens.malus.returned": "Вы вернулись обратно.",
+  "chat.poestdimens.malus.not_in_pocket": "Вы не находитесь в карманном измерении!",
+  
+  "gui.poestdimens.request.title": "%s",
+  "gui.poestdimens.request.subtitle": "Владелец мира: %s"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "poestdimens",
+  "version": "1.0.0",
+  "name": "Pocket Dimensions",
+  "description": "Mod for 1.21.1 Fabric: Pocket Dimensions",
+  "authors": [ "Takusima" ],
+  "contact": {
+    "homepage": "https://github.com"
+  },
+  "license": "MIT",
+  "icon": "assets/poestdimens/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.takusima.poestdimens.PoestDimens"
+    ]
+  },
+  "mixins": [
+    "poestdimens.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.1",
+    "fabric-api": "*"
+  }
+}
